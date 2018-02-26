@@ -162,7 +162,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     *
      * Resets the score for both teams.
      */
     public void resetScore(View v){
