@@ -2,11 +2,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:fillViewport="true" >
+    android:fillViewport="true">
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" >
+        android:layout_height="wrap_content">
 
         <ImageView
             android:id="@+id/background_image_view"
@@ -69,7 +69,7 @@
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:drawableBottom="@drawable/foul_25_25"
+                            android:drawableBottom="@drawable/foul"
                             android:gravity="center_horizontal"
                             android:text="@string/starting_point"
                             android:textColor="@color/displayStatisticsColor"
@@ -188,7 +188,7 @@
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:drawableBottom="@drawable/foul_25_25"
+                            android:drawableBottom="@drawable/foul"
                             android:gravity="center_horizontal"
                             android:text="@string/starting_point"
                             android:textColor="@color/displayStatisticsColor"
